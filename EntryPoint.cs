@@ -39,7 +39,6 @@ namespace MortgageCalculatorProgram
             }
         }
         
-
         public static double readNumber(string prompt, double min, double max) 
         {
             double value;
@@ -66,6 +65,7 @@ namespace MortgageCalculatorProgram
             //return data
             return value;
         }
+
         public static double calculateBalance(
             int principal,
             float annualInterest,
@@ -98,5 +98,6 @@ namespace MortgageCalculatorProgram
 
             return mortgage;
         }
+        
     }
 }
