@@ -1,0 +1,5 @@
+C:\Users\tungh\MortgageCalculatorProgram\bin\Release\net5.0\publish\MortgageCalculatorProgram.exe
+C:\Users\tungh\MortgageCalculatorProgram\bin\Release\net5.0\publish\MortgageCalculatorProgram.dll
+C:\Users\tungh\MortgageCalculatorProgram\bin\Release\net5.0\publish\MortgageCalculatorProgram.deps.json
+C:\Users\tungh\MortgageCalculatorProgram\bin\Release\net5.0\publish\MortgageCalculatorProgram.runtimeconfig.json
+C:\Users\tungh\MortgageCalculatorProgram\bin\Release\net5.0\publish\MortgageCalculatorProgram.pdb

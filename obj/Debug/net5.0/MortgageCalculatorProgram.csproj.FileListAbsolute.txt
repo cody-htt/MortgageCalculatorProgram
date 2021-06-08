@@ -1,0 +1,16 @@
+C:\Users\tungh\MortgageCalculatorProgram\bin\Debug\net5.0\MortgageCalculatorProgram.exe
+C:\Users\tungh\MortgageCalculatorProgram\bin\Debug\net5.0\MortgageCalculatorProgram.deps.json
+C:\Users\tungh\MortgageCalculatorProgram\bin\Debug\net5.0\MortgageCalculatorProgram.runtimeconfig.json
+C:\Users\tungh\MortgageCalculatorProgram\bin\Debug\net5.0\MortgageCalculatorProgram.runtimeconfig.dev.json
+C:\Users\tungh\MortgageCalculatorProgram\bin\Debug\net5.0\MortgageCalculatorProgram.dll
+C:\Users\tungh\MortgageCalculatorProgram\bin\Debug\net5.0\ref\MortgageCalculatorProgram.dll
+C:\Users\tungh\MortgageCalculatorProgram\bin\Debug\net5.0\MortgageCalculatorProgram.pdb
+C:\Users\tungh\MortgageCalculatorProgram\obj\Debug\net5.0\MortgageCalculatorProgram.csprojAssemblyReference.cache
+C:\Users\tungh\MortgageCalculatorProgram\obj\Debug\net5.0\MortgageCalculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungh\MortgageCalculatorProgram\obj\Debug\net5.0\MortgageCalculatorProgram.AssemblyInfoInputs.cache
+C:\Users\tungh\MortgageCalculatorProgram\obj\Debug\net5.0\MortgageCalculatorProgram.AssemblyInfo.cs
+C:\Users\tungh\MortgageCalculatorProgram\obj\Debug\net5.0\MortgageCalculatorProgram.csproj.CoreCompileInputs.cache
+C:\Users\tungh\MortgageCalculatorProgram\obj\Debug\net5.0\MortgageCalculatorProgram.dll
+C:\Users\tungh\MortgageCalculatorProgram\obj\Debug\net5.0\ref\MortgageCalculatorProgram.dll
+C:\Users\tungh\MortgageCalculatorProgram\obj\Debug\net5.0\MortgageCalculatorProgram.pdb
+C:\Users\tungh\MortgageCalculatorProgram\obj\Debug\net5.0\MortgageCalculatorProgram.genruntimeconfig.cache
