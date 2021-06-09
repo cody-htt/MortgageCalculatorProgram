@@ -18,7 +18,7 @@ namespace MortgageCalculatorProgram
 
         public static void printMortgage(int principal, float annualInterest, byte years) 
         {
-            double mortgage = calculateMorgage(principal, annualInterest, years);
+            double mortgage = calculateMortgage(principal, annualInterest, years);
             string mortgageFormatted = String.Format("{0:0,0.00}", mortgage);
             Console.WriteLine();
             Console.WriteLine("MORTGAGE");
@@ -83,7 +83,7 @@ namespace MortgageCalculatorProgram
             return balance;
         }
 
-        public static double calculateMorgage(
+        public static double calculateMortgage(
             int principal,
             float annualInterest,
             byte years)
