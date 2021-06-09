@@ -35,7 +35,7 @@ namespace MortgageCalculatorProgram
             //Print the loan balance for every month
             for (short month = 1; month <= years * MONTHS_IN_YEAR; month++) {
                 double balance = calculateBalance(principal, annualInterest, years, month);
-                Console.WriteLine(String.Format("{0:0,0.00}", balance));
+                Console.WriteLine("Month {0} : " + String.Format("{0:0,0.00}", balance), month);
             }
         }
         
